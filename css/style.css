@@ -45,6 +45,7 @@ h1 {
     text-transform: uppercase;
     text-decoration: none;
     transform: translateX(-50%);
+    text-shadow: 0.065rem 0.065rem #333;
 }
 
 .split.left .btn:hover {
