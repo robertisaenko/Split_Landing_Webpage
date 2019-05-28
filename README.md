@@ -3,9 +3,11 @@
 <br/>
 The page changes in response to mouseenter of the left side
 <br/>
+<br/>
 ![Laptop version](screenshots/left-side.png)
 <br/>
 And this happens in response to mouseenter of the right side
+<br/>
 <br/>
 ![Laptop version](screenshots/right-side.png)
 <br/>
